@@ -15,10 +15,10 @@
     "id": "d614f4df-e1ca-4f31-9613-b32baf878ebc",
     "proponente": "Carlos Mendoza",
     "email": "carlos@test.com",
-    "titulo": "Plataforma de Tutor�as Online",
+    "titulo": "Plataforma de Tutorías Online",
     "descripcion": "Conecta estudiantes con tutores universitarios para clases personalizadas en tiempo real.",
     "fecha": "2026-10-14",
-    "sector": "Educaci�n",
+    "sector": "Educación",
     "etapa": "Idea inicial",
     "presupuesto": null,
     "creadoEn": "2026-10-15T00:18:49.397Z"
@@ -34,5 +34,17 @@
     "etapa": "En operación",
     "presupuesto": null,
     "creadoEn": "2026-10-15T00:25:44.674Z"
+  },
+  {
+    "id": "63c9590f-cdab-47ae-9c3f-7a1f36c17fc0",
+    "proponente": "Kevin Naranjo",
+    "email": "kevin.naranjo@unemi.edu.ec",
+    "titulo": "Sistema de Gestión de Reciclaje Inteligente",
+    "descripcion": "Plataforma IoT y Web para monitorear puntos de reciclaje y recompensar a usuarios por clasificar residuos.",
+    "fecha": "2026-10-14",
+    "sector": "Sostenibilidad",
+    "etapa": "Prototipo",
+    "presupuesto": null,
+    "creadoEn": "2026-10-15T03:10:12.718Z"
   }
 ]

@@ -7,12 +7,10 @@ yarn-error.log*
 
 # Compilaciones y builds de Frontend
 dist/
+**/dist/
 dist-ssr/
 build/
 *.local
-
-# Frontend excluido (gestionado en repositorio independiente)
-frontend/
 
 # Variables de entorno y credenciales
 .env
