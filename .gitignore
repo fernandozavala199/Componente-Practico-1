@@ -1,0 +1,36 @@
+# Dependencias de Node
+node_modules/
+*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compilaciones y builds de Frontend
+dist/
+dist-ssr/
+build/
+*.local
+
+# Frontend excluido (gestionado en repositorio independiente)
+frontend/
+
+# Variables de entorno y credenciales
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archivo de datos persistentes generado (opcional, o dejar con datos iniciales)
+# backend/data/ideas.json

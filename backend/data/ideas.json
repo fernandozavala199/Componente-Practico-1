@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c1f7a0b3-9e4a-4e47-8a6a-d99f2b385e01",
+    "proponente": "María Gómez",
+    "email": "maria.gomez@emprende.com",
+    "titulo": "EcoPlast - Empaques Biodegradables",
+    "descripcion": "Producción de empaques biodegradables a partir de almidón de yuca para reemplazar plásticos de un solo uso en restaurantes.",
+    "fecha": "2026-10-13",
+    "sector": "Sostenibilidad",
+    "etapa": "Prototipo",
+    "presupuesto": null,
+    "creadoEn": "2026-10-13T23:55:00.000Z"
+  },
+  {
+    "id": "d614f4df-e1ca-4f31-9613-b32baf878ebc",
+    "proponente": "Carlos Mendoza",
+    "email": "carlos@test.com",
+    "titulo": "Plataforma de Tutor�as Online",
+    "descripcion": "Conecta estudiantes con tutores universitarios para clases personalizadas en tiempo real.",
+    "fecha": "2026-10-14",
+    "sector": "Educaci�n",
+    "etapa": "Idea inicial",
+    "presupuesto": null,
+    "creadoEn": "2026-10-15T00:18:49.397Z"
+  },
+  {
+    "id": "1f85c775-3a6f-49ff-993a-935e21d131a2",
+    "proponente": "javier cataña",
+    "email": "javiercataña2026@hotmail.com",
+    "titulo": "tutiprime",
+    "descripcion": "mejor la atención la solución de darle la atencion mas rapido posiblelo final seria que si la tiendas mas automatizada para que haya mas fluido en los cliente",
+    "fecha": "2026-10-15",
+    "sector": "Comercio",
+    "etapa": "En operación",
+    "presupuesto": null,
+    "creadoEn": "2026-10-15T00:25:44.674Z"
+  }
+]
