@@ -188,7 +188,5 @@ Content-Type: application/json
 ---
 
 ## 👥 Integrantes del Equipo
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
+- Fernando Zavala
+- Kevin Naranjo
